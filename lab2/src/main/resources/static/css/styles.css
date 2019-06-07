@@ -1,0 +1,22 @@
+.div1{ 
+	width:300px;
+	 
+}
+
+
+.div2{
+	width:1300px;
+	heigth:auto;
+	background-color:#C6E2FF;
+	margin:100px  auto;
+	border-radius: 5px;
+}
+
+.div3{
+	border-radius: 5px;
+	background:rgba(255, 251, 240, 0); /*R G B opacity*/
+	border:1px solid green;
+}
+.br{
+	border-radius:4px;
+}
